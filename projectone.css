@@ -33,7 +33,7 @@ background-size: cover;
 a{
     color: #ffffff;
     text-decoration: none;
-  
+    margin:20px;
 }
 header{
     display: flex;
